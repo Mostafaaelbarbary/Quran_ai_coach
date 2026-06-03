@@ -21,13 +21,13 @@ Practice with real-time feedback
 Enhance Quran understanding through conversational AI
 Tech Stack
 
-Frontend
+*Frontend
 
 Flutter
 Audio Recording & Playback
 REST API Integration
 
-Backend
+*Backend
 
 AI-powered speech processing
 Quran recitation analysis
