@@ -1,17 +1,38 @@
-# quran_ai_coach
+Quran AI Coach
 
-A new Flutter project.
+An AI-powered Quran learning assistant that helps users improve their recitation and deepen their understanding of the Quran through intelligent feedback and interactive guidance.
 
-## Getting Started
+Features
+1. Recitation Analysis
+Record Quran recitation directly within the app
+AI-based speech recognition and recitation assessment
+Compare user recitation with the expected Quranic text
+Receive accuracy scores and detailed feedback
+Listen to reference recitations for correction and practice
+2. Quran AI Assistant
+Ask questions about Quranic verses and concepts
+Get instant AI-generated explanations and guidance
+Support for Arabic and English queries
+Interactive chat interface for personalized learning
+3. Learning Support
+Improve pronunciation and memorization
+Identify recitation mistakes
+Practice with real-time feedback
+Enhance Quran understanding through conversational AI
+Tech Stack
 
-This project is a starting point for a Flutter application.
+Frontend
 
-A few resources to get you started if this is your first Flutter project:
+Flutter
+Audio Recording & Playback
+REST API Integration
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Backend
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+AI-powered speech processing
+Quran recitation analysis
+Natural Language Processing (NLP)
+Large Language Models (LLMs)
+Vision
+
+Quran AI Coach aims to make Quran learning more accessible and personalized by combining modern artificial intelligence with traditional Quranic education. The platform serves as a virtual tutor that assists learners in improving recitation accuracy, strengthening memorization, and exploring Quranic knowledge through intelligent conversation.
